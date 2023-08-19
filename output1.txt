@@ -1,0 +1,19 @@
+Enter input to check or q to quit
+()
+Expression is balanced
+
+Enter input to check or q to quit
+<>
+Expression is balanced
+
+Enter input to check or q to quit
+[]
+Expression is balanced
+
+Enter input to check or q to quit
+{}
+Expression is balanced
+
+Enter input to check or q to quit
+
+Goodbye

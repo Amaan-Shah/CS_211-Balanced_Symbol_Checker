@@ -1,0 +1,30 @@
+Enter input to check or q to quit
+([{<>}])
+Expression is balanced
+
+Enter input to check or q to quit
+({})abcd<csd>[()<>{}]:123
+Expression is balanced
+
+Enter input to check or q to quit
+Unbalanced expression. Error 1: expecting a different closing symbol
+<{>}([)]
+  ^ expecting }
+
+Enter input to check or q to quit
+Unbalanced expression. Error 2: missing an opening symbol
+)(a+b){x|x in R}
+^ missing (
+
+Enter input to check or q to quit
+[][][][][][][]()()<><>
+Expression is balanced
+
+Enter input to check or q to quit
+Unbalanced expression. Error 3: missing a closing symbol
+1+2 : abcd (<{X = y}>
+                     ^ missing )
+
+Enter input to check or q to quit
+
+Goodbye

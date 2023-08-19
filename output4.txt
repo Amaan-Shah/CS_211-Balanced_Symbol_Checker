@@ -1,0 +1,31 @@
+
+Enter input to check or q to quit
+ 3 * ( 5 + 7 ) / 2
+Expression is balanced
+
+Enter input to check or q to quit
+<({})>
+Expression is balanced
+
+Enter input to check or q to quit
+( ( a a ) < > [ [ [ { [ x ] } ]]] <>)
+Expression is balanced
+
+Enter input to check or q to quit
+Unbalanced expression. Error 1: expecting a different closing symbol
+( ( a a ) < > [ [ [ { [ x ] ]]] <>)
+                            ^ expecting }
+
+Enter input to check or q to quit
+Unbalanced expression. Error 2: missing an opening symbol
+( ( a a ) ) < > > [ [ [ { [ x ] } ]]] <>)
+                ^ missing <
+
+Enter input to check or q to quit
+Unbalanced expression. Error 3: missing a closing symbol
+( ( a a ) < > [ [ [ { [ x ] } ]]]
+                                 ^ missing )
+
+Enter input to check or q to quit
+
+Goodbye
